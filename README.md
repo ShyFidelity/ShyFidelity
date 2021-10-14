@@ -16,7 +16,6 @@
 - 😄 Pronouns: ...
 - she/her
 - ⚡ Fun facts: ...
-- let's play ♚ ♛ ♜ ♝ ♞ ♟
-- or ♤ ♧ ♡ ♢
+- let's play ♚ ♛ ♜ ♝ ♞ 
 - ♬ it's rap or country and that's it ♫
 
