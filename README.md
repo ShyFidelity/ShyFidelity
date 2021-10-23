@@ -3,7 +3,6 @@
 
 - 🔭 I’m ShyFidelity...
 ``` 
-if you want to know what it means. Shy is for shy. I'm an introvert. Fidelity is for perfection. Fidelity first came from testing records and songs. The only way you could achieve true fidelity was by playing the song on the decivce it was created on. The maker and it's true tool. 
 - Finishing my bootcamp @ DU 
 - 🌱 I’m currently learning ...
 - Full stack Web Dev at DU and pursing my certifate in AWS. 
