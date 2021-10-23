@@ -17,7 +17,7 @@
 - she/her
 - ⚡ Fun facts: ...
   <h3>If i was dying and could only choose 10 albums to bring to Heaven in no particular order...</h3>
-          <li>
+     
             <ul>Drake - Take Care</ul>
             <ul>The Replacements - Tim(Expanded)</ul>
             <ul>Frank Ocean - Blonde</ul>
@@ -28,5 +28,3 @@
             <ul>Kanye West - Yeezus 2013</ul>
             <ul>Love - Four Sail (Expanded Edition) 1969</ul>
             
-          </li>
-
