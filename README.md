@@ -16,6 +16,17 @@
 - 😄 Pronouns: ...
 - she/her
 - ⚡ Fun facts: ...
-- let's play ♚ ♛ ♜ ♝ ♞ 
-- ♬ it's rap or country and that's it ♫
+  <h3>If i was dying and could only choose 10 albums to bring to Heaven in no particular order...</h3>
+          <li>
+            <ul>Drake - Take Care</ul>
+            <ul>The Replacements - Tim(Expanded)</ul>
+            <ul>Frank Ocean - Blonde</ul>
+            <ul>Bright Eyes - </ul>
+            <ul>George Strait - Ocean Front Property 1987</ul>
+            <ul>Tears For Fears - Songs</ul>
+            <ul>Kanye West - The Life Of Pablob 2016</ul>
+            <ul>Kanye West - Yeezus 2013</ul>
+            <ul>Love - Four Sail (Expanded Edition) 1969</ul>
+            
+          </li>
 
