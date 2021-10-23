@@ -11,17 +11,16 @@
 - shyfidelity100@gmail.com
 - 😄 Pronouns: ...
 - she/her
-- ⚡ Fun facts: ...
-####If i was dying and could only choose 10 albums to bring to Heaven in no particular order...
+- ⚡ Fun facts: ...If i was dying and could only choose 10 albums to bring to Heaven in no particular order...
      
-            <ul>Drake - Take Care</ul>
-            <ul>The Replacements - Tim(Expanded)</ul>
-            <ul>Frank Ocean - Blonde</ul>
-            <ul>Bright Eyes - </ul>
-            <ul>George Strait - Ocean Front Property 1987</ul>
-            <ul>Tears For Fears - Songs</ul>
-            <ul>Kanye West - The Life Of Pablob 2016</ul>
-            <ul>Kanye West - Yeezus 2013</ul>
-            <ul>Love - Four Sail (Expanded Edition) 1969</ul>
-            <ul>Sam Cooke</ul>
+            Drake - Take Care
+            The Replacements - Tim(Expanded)
+           Frank Ocean - Blonde
+          Bright Eyes - 
+           George Strait - Ocean Front Property 1987
+          Tears For Fears - Songs
+           Kanye West - The Life Of Pablob 2016
+            Kanye West - Yeezus 2013
+         Love - Four Sail (Expanded Edition) 1969
+       Sam Cooke<
             
