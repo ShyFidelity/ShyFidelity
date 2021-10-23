@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m ShyFidelity...
-``` 
 - Finishing my bootcamp @ DU 
 - 🌱 I’m currently learning ...
 - Full stack Web Dev at DU and pursing my certifate in AWS. 
@@ -13,7 +12,7 @@
 - 😄 Pronouns: ...
 - she/her
 - ⚡ Fun facts: ...
-  <h3>If i was dying and could only choose 10 albums to bring to Heaven in no particular order...</h3>
+####If i was dying and could only choose 10 albums to bring to Heaven in no particular order...
      
             <ul>Drake - Take Care</ul>
             <ul>The Replacements - Tim(Expanded)</ul>
