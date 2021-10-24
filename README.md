@@ -13,7 +13,7 @@
 - she/her
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyfidelity&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyfidelity&theme=nightowl&show_icons=true)
 
 - ⚡ Fun facts: ...If i was dying and could only choose 10 albums to bring to Heaven in no particular order...
      
