@@ -8,7 +8,6 @@ You can reach me at fitzmauricejillian@gmail.com
  Cheers! 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyfidelity&theme=nightowl&show_icons=true)
 
 
        
